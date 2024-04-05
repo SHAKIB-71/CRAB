@@ -1,4 +1,4 @@
-<h1> COMMAND </h1>
+<h2> COMMAND </h2>
 
 ```
 rm -rf CRAB
