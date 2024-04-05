@@ -1,4 +1,5 @@
-# COMMAND
+<h1> COMMAND </h1>
+
 ```
 rm -rf CRAB
 
@@ -10,4 +11,5 @@ chmod +x *
 
 python CRAB.py
 ```
+
 <h3> ENJOY</h3>
